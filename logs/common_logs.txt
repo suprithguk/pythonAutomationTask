@@ -1,0 +1,8 @@
+Clicking on //*[contains(text(), 'Accept all cookies')] as locator
+Clicking on Enter your reg as get_by_placeholder
+Adding Value AD58VNF at element Enter your reg as get_by_placeholder
+Clicking on //*[@id='Mileage'] as locator
+Adding Value 1000 at element //*[@id='Mileage'] as locator
+Clicking on //*[@id='btn-go'] as locator
+BMW 1 SERIES DIESEL COUPE - 120d M Sport 2dr • 2008 • Black • Manual
+Clicking on //*[@id='btn-back'] as locator
