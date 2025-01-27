@@ -11,6 +11,7 @@
 
  ```
  git clone https://github.com/suprithguk/seleniumPythonTask.git; cd seleniumPythonTask
+ Unzip following file: lib/python3.13/site-packages/playwright/driver/node.zip
  python -m venv py_env
  source py_env/bin/activate
  pip install -r requriments.txt
