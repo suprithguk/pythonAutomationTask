@@ -1,5 +1,5 @@
 # **Car Valuation E2E Test Suite**
-  This project is an end-to-end (E2E) automation test suite designed to validate vehicle details fetched from a car valuation website against expected results using a Behavior-Driven Development (BDD) approach.
+  This project is an end-to-end (E2E) automation test suite designed to validate vehicle details fetched from a car valuation website against expected results.
 
   The framework uses Python, Playwright and is set up for seamless integration with Jenkins.
 
